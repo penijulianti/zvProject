@@ -10,21 +10,21 @@ dengan tambahan fitur interaksi seperti komentar.
 
 
 # Fitur
--login, registrasi, dan logout menggunakan token JWT.
--Unggah, edit, dan hapus video.
--menambahkan, mengedit, dan menghapus komentar pada video.
--Komentar dapat diurutkan berdasarkan tanggal terbaru atau terlama.
+- login, registrasi, dan logout menggunakan token JWT.
+- Unggah, edit, dan hapus video.
+- menambahkan, mengedit, dan menghapus komentar pada video.
+- Komentar dapat diurutkan berdasarkan tanggal terbaru atau terlama.
 
 # Teknologi yang Digunakan:
 ## Frontend:
-React dengan TypeScript
-Tailwind CSS untuk styling
-Fetch API untuk komunikasi dengan backend
-React Router untuk navigasi halaman
-Cookie untuk manajemen token
+1. React dengan TypeScript
+2. Tailwind CSS untuk styling
+3. Fetch API untuk komunikasi dengan backend
+4. React Router untuk navigasi halaman
+5. Cookie untuk manajemen token
 
 ## Backend:
-Java Spring Boot sebagai API backend
-JWT (Nimbus Jose JWT) untuk autentikasi pengguna
-REST API untuk manajemen pengguna, video, dan komentar
+1. Java Spring Boot sebagai API backend
+2. JWT (Nimbus Jose JWT) untuk autentikasi pengguna
+3. REST API untuk manajemen pengguna, video, dan komentar
 

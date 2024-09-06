@@ -6,7 +6,6 @@ Aplikasi ini memungkinkan pengguna untuk melakukan beberapa operasi terkait vide
 seperti unggah, edit, hapus, serta menyediakan fitur manajemen akun pengguna, autentikasi, dan pengelolaan komentar. 
 Tujuan aplikasi ini adalah memberikan platform bagi pengguna untuk berbagi dan mengelola konten video secara terstruktur, 
 dengan tambahan fitur interaksi seperti komentar.
-![Screenshot 2024-09-06 201908](https://github.com/user-attachments/assets/80efa9e7-e312-4beb-a21e-4789cc0b0071)
 
 
 # Fitur
@@ -28,3 +27,5 @@ dengan tambahan fitur interaksi seperti komentar.
 2. JWT (Nimbus Jose JWT) untuk autentikasi pengguna
 3. REST API untuk manajemen pengguna, video, dan komentar
 
+
+![Screenshot 2024-09-06 201908](https://github.com/user-attachments/assets/80efa9e7-e312-4beb-a21e-4789cc0b0071)
